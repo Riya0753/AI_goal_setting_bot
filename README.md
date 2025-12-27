@@ -227,3 +227,7 @@ For clarity and quick understanding, the repository includes:
 
 - A short demo video:
   - Showing a user adding goals, viewing them in sorted order, completing one, requesting advice and saving a quote.
+
+https://github.com/user-attachments/assets/22f2d8c4-cf8b-446b-a787-f534e89f8d66
+
+
